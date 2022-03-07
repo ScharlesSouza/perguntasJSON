@@ -1,0 +1,19 @@
+{
+  "questoes":[
+    {
+      "id": 1,
+      "pergunta": "Lixeira de Metal é de qual cor?",
+      "alternativas":[ "a: Amarela ","b: Vermelha", "c: Verde"]
+    },
+    {
+      "id": 2,
+       "pergunta": "Qual destes residuos não é reciclavel?",
+      "alternativas":[ "a: Metal","b: Madeira", "c: Hospitalar"]
+    },
+    {
+      "id": 3,
+       "pergunta": "Qual residuo reciclavél tem o maior volume de reciclagem no Brasil?",
+      "alternativas":[ "a: Papelão","b: Aluminio", "c: PET"]
+    }
+  ]
+}
